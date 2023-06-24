@@ -30,7 +30,7 @@ body {
   text-decoration: none;
   align-items: center;
   font-size: 20px;
-  padding-left: 0.5em;
+  padding-left: 1.0em;
 }
 header {
   z-index: 1;
@@ -68,7 +68,7 @@ header {
 .whatsapp {
   position: fixed;
   z-index: 2;
-  top: 200px;
+  top: 82%;
   right: 40px;
 }
 .whatsapp img {
